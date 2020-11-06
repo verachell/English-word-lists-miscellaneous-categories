@@ -1,0 +1,35 @@
+house
+table
+washing machine
+refrigerator
+shed
+log cabin
+tree house
+fountain
+statue
+sculpture
+obelisk
+monument
+set of drawers
+desk
+stairs
+bed
+bridge
+path
+road
+boat
+chair
+ferris wheel
+carousel
+seesaw
+street lamp
+road sign
+tunnel
+radio tower
+cellphone tower
+pylon
+power pole
+castle
+trebuchet
+door
+trampoline
