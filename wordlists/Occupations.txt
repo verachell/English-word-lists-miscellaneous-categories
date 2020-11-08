@@ -1,0 +1,32 @@
+police officer
+occupational therapist
+doctor
+nurse
+teacher
+janitor
+accountant
+electrical engineer
+plumber
+engineer
+administrative assistant
+soldier
+speech therapist
+photographer
+prison officer
+lawyer
+professor
+musician
+stockbroker
+pharmacist
+dentist
+ballet dancer
+sanitation engineer
+bus driver
+farmer
+singer
+artist
+house painter
+shop assistant
+store manager
+bank clerk
+zookeeper
