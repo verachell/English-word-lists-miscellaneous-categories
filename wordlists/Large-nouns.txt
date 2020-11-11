@@ -1,4 +1,5 @@
 house
+car
 table
 washing machine
 refrigerator
@@ -16,9 +17,13 @@ stairs
 bed
 bridge
 path
+mattress
 road
 boat
 chair
+machine
+soccer goal
+oven
 ferris wheel
 carousel
 seesaw
@@ -33,3 +38,5 @@ castle
 trebuchet
 door
 trampoline
+sofa
+television
