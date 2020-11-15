@@ -48,7 +48,7 @@ leopard
 llama
 meerkat
 civet
-moles
+mole
 mule
 donkey
 opossum
