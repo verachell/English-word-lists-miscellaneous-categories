@@ -49,3 +49,8 @@ disintegrating
 problematic
 burdensome
 complicated
+erratic
+inconsistent
+aberrant
+irregular
+abnormal
